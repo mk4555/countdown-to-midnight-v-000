@@ -1,4 +1,5 @@
 #write your code here
-
-def countdown
+require('pry')
+def countdown(num)
+  puts "SHIBAL"
 end
