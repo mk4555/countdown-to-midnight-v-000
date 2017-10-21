@@ -1,4 +1,7 @@
 #write your code here
 def countdown(num)
-  puts "#{num}"
+  while num > 0
+    puts "SHIBAL"
+    num -= 0
+  end
 end
