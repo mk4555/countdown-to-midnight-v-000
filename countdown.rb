@@ -1,4 +1,4 @@
 #write your code here
 def countdown(num)
-  puts "SHIBAL"
+  puts "#{num}"
 end
